@@ -1,0 +1,7 @@
+plugins:
+  xcancel_enabled:
+    default: true
+    client: false
+    type: bool
+    description:
+      it: "Abilita o disabilita la sostituzione automatica dei link x.com con xcancel.com"
