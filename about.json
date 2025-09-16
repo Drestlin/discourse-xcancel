@@ -1,9 +1,9 @@
 {
-  "name": "Twitter Native Embed con Xcancel",
-  "authors": "Lhc_fl, jac",
-  "about_url": null,
+  "name": "X.com links to xcancel.com",
+  "authors": "DrestGPT",
+  "about_url": https://github.com/Drestlin/discourse-xcancel.git,
   "component": true,
-  "license_url": null,
+  "license_url": https://github.com/Drestlin/discourse-xcancel/blob/main/LICENSE,
   "assets": {},
   "color_schemes": {}
 }
