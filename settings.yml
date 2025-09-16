@@ -1,0 +1,9 @@
+xcancel_enabled:
+  default: true
+  type: bool
+  description: "Abilita o disabilita la sostituzione dei link a x.com"
+
+xcancel_target:
+  default: "xcancel.com"
+  type: string
+  description: "Dominio di destinazione per sostituire x.com"
