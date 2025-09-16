@@ -1,2 +1,2 @@
 # discourse-xcancel
-a simple plugin for discourse to translate every x.com link into xcancel ones.
+a simple theme component for discourse to translate every x.com link into xcancel ones.
